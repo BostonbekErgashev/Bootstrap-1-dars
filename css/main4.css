@@ -1,0 +1,14 @@
+.com{
+    height: 50px;
+    border: 1px solid white;
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+body{
+    background-color: white;
+}
+.container{
+    margin-top: 100px;
+}
